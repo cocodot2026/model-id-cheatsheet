@@ -27,7 +27,7 @@ upstream they carry. Verify against each relay's own docs before relying on it.
 Prices and ids change — this is a starting map, not gospel. Cross-check with
 [relay-doctor](https://github.com/cocodot2026/relay-doctor) (lists a relay's live
 model ids) and verify the model is real with
-[LLMprobe](https://github.com/cocodot2026/LLMprobe).
+[cocodot-llmprobe](https://github.com/cocodot2026/cocodot-llmprobe).
 
 ---
 Part of an honest toolkit for running AI from China. The maintainer builds
