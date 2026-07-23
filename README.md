@@ -33,3 +33,5 @@ model ids) and verify the model is real with
 Part of an honest toolkit for running AI from China. The maintainer builds
 [cocodot](https://cocodot.co) — disclosed; every relay is welcome here on equal
 terms. MIT / CC0 for the data.
+
+See also: [2026 China AI API relay comparison](https://cocodot.co/hub/shenma-teamorouter-api2d-compare) — relay landscape side-by-side (disclosed).
