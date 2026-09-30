@@ -14,7 +14,7 @@ upstream they carry. Verify against each relay's own docs before relying on it.
 
 | Relay | Flagship (Opus/GPT-flagship tier) | Mid (Sonnet tier) | Small/fast (Haiku tier) | Notes |
 |---|---|---|---|---|
-| [cocodot](https://cocodot.co) | `mco-6` (Opus 4.8) | `mcs-5` (Sonnet 4.6) | `mch-1` (Haiku 4.5) | OpenAI + Anthropic compatible; also DeepSeek |
+| [cocodot](https://cocodot.co?utm_source=github&utm_medium=readme&utm_campaign=model-id-cheatsheet) | `mco-6` (Opus 4.8) | `mcs-5` (Sonnet 4.6) | `mch-1` (Haiku 4.5) | OpenAI + Anthropic compatible; also DeepSeek |
 | _your relay_ | `...` | `...` | `...` | open a PR |
 
 ## Contributing
@@ -31,7 +31,7 @@ model ids) and verify the model is real with
 
 ---
 Part of an honest toolkit for running AI from China. The maintainer builds
-[cocodot](https://cocodot.co) — disclosed; every relay is welcome here on equal
+[cocodot](https://cocodot.co?utm_source=github&utm_medium=readme&utm_campaign=model-id-cheatsheet) — disclosed; every relay is welcome here on equal
 terms. MIT / CC0 for the data.
 
-See also: [2026 China AI API relay comparison](https://cocodot.co/hub/shenma-teamorouter-api2d-compare) — relay landscape side-by-side (disclosed).
+See also: [2026 China AI API relay comparison](https://cocodot.co/hub/shenma-teamorouter-api2d-compare?utm_source=github&utm_medium=readme&utm_campaign=model-id-cheatsheet) — relay landscape side-by-side (disclosed).
